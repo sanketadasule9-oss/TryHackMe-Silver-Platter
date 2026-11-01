@@ -142,3 +142,11 @@ Sensitive credentials, private information, and challenge flags have intentional
 - **TryHackMe:** https://tryhackme.com/room/silverplatter
 - **GitHub:** My cybersecurity learning journey
 
+## 🏆 TryHackMe Achievement
+
+Successfully completed the **Silver Platter** room on TryHackMe!
+
+This achievement represents my hands-on practice in network enumeration, web application security, authentication bypass, and Linux privilege escalation.
+
+🔗 **Explore the Room:** [TryHackMe - Silver Platter](https://tryhackme.com/room/silverplatter?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=whatsapp&sharerId=6ac348dfa089c90c825b47a5)
+
